@@ -1,2 +1,3 @@
 # EarningsYield_Model_PUB
-Estimating US Equities Earnings Yield with Macro Factors
+Jupyter notebook modeling US Equities Earnings Yield with Macro Factors.
+
